@@ -5,10 +5,8 @@
 **c++ Marble Crash Game** (Marble Crash Game) is an puzzle game Which received the idea from Puyo Puyo Tertis game. I created a game with retro graphic style and simple operation as a part of a computer graphic at University. One of the main goals of this project is understanding to process of creating game. We use many OpenGl libraries in this project that you can see in the "Requirement". We recommend to use visual studio to run this project.
 <br/>
 
-
-<br/>
 I developed this game by visual studio 2019(https://visualstudio.microsoft.com/) that is one of IDE(Integrated Development Environment). The source code is in this repository.
-
+<br/>
 **Feature**
 <br/>
 Object Transformation
