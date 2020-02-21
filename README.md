@@ -18,18 +18,18 @@ Keyboard Event
 
 **Requirement**
 <br/>
-- Visual Studio(https://visualstudio.microsoft.com/)
+Visual Studio(https://visualstudio.microsoft.com/)
 <br/>
-- freeglut(OpenGL library)
+freeglut(OpenGL library)
 <br/>
-- SOIL(OpenGL library)
+SOIL(OpenGL library)
 <br/>
 
 **Setup**
 <br/>
-- setup freeglut in Visual Studio(https://www.wikihow.com/Set-Up-an-OpenGL-FreeGLUT-GLEW-Template-Project-in-Visual-Studio)
+setup freeglut in Visual Studio(https://www.wikihow.com/Set-Up-an-OpenGL-FreeGLUT-GLEW-Template-Project-in-Visual-Studio)
 <br/>
-- setup SOIL in Visual Studio(https://github.com/Friduric/simple-opengl-image-library)
+setup SOIL in Visual Studio(https://github.com/Friduric/simple-opengl-image-library)
 <br/>
 
 
@@ -37,7 +37,7 @@ Keyboard Event
 **Process of game**
 
 <br/>
-1) Marble dropped from upper to bottom .
+1) Marble dropped from upper to bottom.
 <br/>
 <img src="image/how1.jpg" align="middle" width="500"/>
 <br/>
